@@ -73,7 +73,6 @@ This project helps in understanding how data can be stored permanently using fil
 ## 📌 Author
 
 Farhan Gheri
-B.Tech Computer Science
-MERN Stack Developer
+
 
 ---
